@@ -7,6 +7,7 @@
     <groupId>ng</groupId>
     <artifactId>resta</artifactId>
     <version>1.0</version>
+    <description>Restafarian</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
